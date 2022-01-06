@@ -7,9 +7,10 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-    "./model"
+	"github.com/stylewave/pa/model"
 	//"github.com/go-crawler/douban-movie/model"
-	"github.com/go-crawler/douban-movie/parse"
+	//"github.com/go-crawler/douban-movie/parse"
+	"github.com/stylewave/pa/parse"
 )
 
 var (
